@@ -1,1 +1,0 @@
-console.log('Urban Kings Site Ready');
